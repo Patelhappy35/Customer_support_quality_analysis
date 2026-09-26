@@ -3,7 +3,7 @@
 **Student Name:** Happy Patel
 **Student ID:** 10853
 **Assigned Set:** Set B
-
+**Video Link:** https://drive.google.com/drive/folders/1GTZgyUUSNJRsHnKGpb6fTL7eiGpSEz1V?usp=sharing
 ## 1. Project Overview
 
 This project analyzes customer support quality using four data analysis tools:
@@ -432,7 +432,7 @@ Other tools required:
 
 **Video Duration:** 5–10 minutes
 
-**Video Link:** 
+**Video Link:** https://drive.google.com/drive/folders/1GTZgyUUSNJRsHnKGpb6fTL7eiGpSEz1V?usp=sharing
 
 The video demonstrates:
 
@@ -492,3 +492,10 @@ The video is recorded with both face and screen visible throughout.
 ### Conclusion
 
 “इस तरह मैंने Excel, SQL, Python और Power BI में same cleaned data का analysis किया और results को cross-check किया। Thank you.”
+
+
+## 👩‍💻 Author
+
+**Happy Patel**
+
+Aspiring Data Analyst | Excel | SQL | Power BI | Data Analytics
